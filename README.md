@@ -208,7 +208,7 @@ Since the measured distance is greater than the **20 cm threshold**, the buzzer 
 
 The Wokwi circuit consists of an Arduino Uno connected to the HC-SR04 ultrasonic sensor, 16×2 LCD, and buzzer.
 
-![Circuit Diagram](Smart%20Distance%20Alarm/circuit_diagram.png)
+![Circuit Diagram](smart%20distance%20alarm%20%282%29/circuit_diagram.png)
 
 ---
 
@@ -216,8 +216,7 @@ The Wokwi circuit consists of an Arduino Uno connected to the HC-SR04 ultrasonic
 
 The running simulation demonstrates real-time distance measurement and LCD output.
 
-
-![Simulation Output](Smart%20Distance%20Alarm/simulation_output.png)
+![Simulation Output](smart%20distance%20alarm%20%282%29/simulation_output.png)
 
 ---
 
